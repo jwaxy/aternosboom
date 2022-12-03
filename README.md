@@ -23,13 +23,12 @@ $ pip install -r requirements.txt
 ## Usage
 1. Prepare your wordlist (a list of possible passwords).
 
-2. Befora starting the main (attack) program you should generate a rainbow wordlist using the other small script.
+2. Before starting the main (attack) program you should generate a rainbow wordlist using the other small script.
 
 ```bash
 $ python rainbow.py your-wordlist.txt
 ```
-
-A new file called your-wordlist.txt.md5sum will be generated.
+   A new file called your-wordlist.txt.md5sum will be generated.
 
 3. Start the main program using your new generated rainbow wordlist.
 

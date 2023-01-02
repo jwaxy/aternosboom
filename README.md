@@ -1,3 +1,4 @@
+![cool-banner](https://i.ibb.co/gzTV52c/Aternos-Boom-Banner.png)
 # AternosBoom! 💣️
 AternosBoom! is a small utility for brute-forcing aternos accounts. ![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue) 
 

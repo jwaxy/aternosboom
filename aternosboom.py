@@ -143,6 +143,8 @@ def login(user, md5_password, sec, token):
         headers=headers,
         data=data
     )
+    if debug:
+        print("RESPONSE:", response.text)
     return response.json()
 
 src = open(wordlist_path)
